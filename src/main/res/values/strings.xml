@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Product App</string>
+    <string name="action">actionsav</string>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+    <!-- Title for the activity to add of the babit[CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_commodity">Add a Commodity</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_commodity_sales">sales</string>
+    <!-- the number of pieces cigarette smoked of the habits (pieces) [CHAR LIMIT=5] -->
+    <string name="unit_commodity_sales">pieces</string>
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="text_sales">Sales</string>
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="text_quantity">Qty</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_commodity_quantity">quantity</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="category_quantity">Quantity</string>
+    <!-- the number of pieces cigarette smoked of the habits (pieces) [CHAR LIMIT=5] -->
+    <string name="kilo_quantity">kg</string>
+    <!-- Label for editor overflow menu option that deletes the current habit [CHAR LIMIT=20] -->
+    <string name="text_pieces">pieces</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="edit_commodity_price">Prices</string>
+    <!-- the number of pieces cigarette smoked of the habits (pieces) [CHAR LIMIT=5] -->
+    <string name="price_pound">Pounds</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_commodity_price">Amount</string>
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_commodity_name">Name</string>
+    <string name="category_overview">Name</string>
+    <string name="eating_dinner">yes oo</string>
+    <string name="eating_breakfast">na</string>
+    <string name="eating_lunch">nar</string>
+    <!-- Name for the application [CHAR LIMIT=12] -->
+
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Commodity</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">Get started by adding a commodity</string>
+
+    <!-- Title for the activity to edit an existing pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_commodity">Edit Commodity</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Toast message in editor when new pet has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_commodity_successful">Commodity saved</string>
+
+    <!-- Toast message in editor when new pet has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_commodity_failed">Error with saving commodity</string>
+
+    <!-- Toast message in editor when current pet was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_commodity_successful">commodity updated</string>
+
+    <!-- Toast message in editor when current pet has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_commodity_failed">Error with updating commodity</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Please click on save if you have put in the correct data, otherwise continue editing.</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current pet was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_commodity_successful">Commodity deleted</string>
+
+    <!-- Toast message in editor when current pet has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_commodity_failed">Error with deleting Commodity</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this commodity?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current pet [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current pet [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for the pet's breed if the breed is unknown [CHAR LIMIT=20] -->
+    <string name="unknown_breed">Unknown breed</string>
+    <string name="deal">Sales</string>
+    <string name="done_button">DONE</string>
+    <string name="order_button">ORDER</string>
+    <string name="down_button">DOWNQTY</string>
+    <string name="up_button">UPQTY</string>
+    <string name="delete_btn">Delete</string>
+    <string name="form_pick_photos">extract photos</string>
+    <string name="textfieds_error">missing data</string>
+    <string name="imagg">image upload needed</string>
+    <string name="editor_failed">add image</string>
+    <string name="error_missing">Product unsaved because of missing data. Please Add product with complete data.</string>
+    <string name="image_required">Product unsaved because Image is required. Please Add product with complete data</string>
+
+</resources>
